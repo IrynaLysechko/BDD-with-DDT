@@ -4,4 +4,4 @@
 verify that warning message appears, after that enter correct email and 
 send a message, verify that message present in "Sent email" folder. 
 
-**Tools:** Selenium, Cucumber, TestNG, Maven
+**Tools:** Cucumber, TestNG, Maven
